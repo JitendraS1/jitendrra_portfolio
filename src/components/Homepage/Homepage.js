@@ -30,11 +30,11 @@ function Home() {
               className='socailmediabtn'><AiFillMail className='icon' /></button>
 
             <button onClick={() => {
-              window.open("https://twitter.com/BhadoriyaJi18");
+              window.open("https://twitter.com");
             }}
               className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
             <button onClick={() => {
-              window.open("https://instagram.com/bhadoriyaji182");
+              window.open("https://instagram.com/");
             }}
               className='socailmediabtn'><AiFillInstagram className='icon' /></button>
           </Col>

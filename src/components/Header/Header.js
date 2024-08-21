@@ -80,7 +80,7 @@ function Header() {
 
           <Button
             onClick={() => {
-              window.open("https://drive.google.com/file/d/17aiDfNXz2LrINrnEaIiXHvX4yt-7K26i/view?usp=sharing");
+              window.open("https://drive.google.com/file/d/1_qBddEKi6motbDgMcpYSrbYnfvj8NX0X/view?usp=sharing");
             }}
             className='resumebtn'><span>Resume</span>
           </Button>
